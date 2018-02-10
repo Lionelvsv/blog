@@ -16,8 +16,8 @@
 
 
     <!-- Custom styles for this template -->
-    <link href="css/blog.css" rel="stylesheet">
-    <link href="css/jquery.datetimepicker.min.css" rel="stylesheet">
+    <link href="/css/blog.css" rel="stylesheet">
+    <link href="/css/jquery.datetimepicker.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/country-select-js/2.0.1/css/countrySelect.css" rel="stylesheet">
     <link rel="icon" href="https://cdnjs.cloudflare.com/ajax/libs/country-select-js/2.0.1/img/flags.png" type="image/x-icon">
 
@@ -52,13 +52,13 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/bootstrap-select.js"></script>
     
-<script src="js/jquery.datetimepicker.full.min.js"></script>
+<script src="/js/jquery.datetimepicker.full.min.js"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/country-select-js/2.0.1/js/countrySelect.min.js"></script>
 
 <script src="{{ asset('/vendor/laravelLikeComment/js/script.js') }}" type="text/javascript"></script>
 
-    <script src="{{ asset('/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
 
 
 
